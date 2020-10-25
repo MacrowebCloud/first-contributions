@@ -24,6 +24,7 @@
 - [Raluca Niti](https://github.com/IRNiti)
 - [ValerianArdelean](https://github.com/ValerianArdelean)
 - [KC](https://github.com/kamsci)
+- [GT] (https://github.com/el-queso)
 - [Komala Reddypalle](https://github.com/HungerforCode)
 - [Anna Burek](https://github.com/aburek)
 - [Jyothsna Panchagnula](https://github.com/reachjyo)
